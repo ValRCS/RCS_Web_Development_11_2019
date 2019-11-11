@@ -29,3 +29,7 @@ https://www.caniuse.com/
 
 ## Date and datetime
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date
+
+## More flexbox explanation
+
+* https://www.freecodecamp.org/news/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053/
