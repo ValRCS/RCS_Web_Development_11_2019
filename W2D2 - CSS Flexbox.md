@@ -30,7 +30,12 @@ https://www.caniuse.com/
 ## Date and datetime
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date
 
+## Flexbox playground
+
+* * http://flexbox.help/
+
 ## More flexbox explanation
+
 
 * https://stackoverflow.com/questions/32551291/in-css-flexbox-why-are-there-no-justify-items-and-justify-self-properties
 * https://www.freecodecamp.org/news/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053/
