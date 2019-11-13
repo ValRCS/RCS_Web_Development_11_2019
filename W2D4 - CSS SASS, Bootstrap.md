@@ -1,3 +1,12 @@
+# SASS - CSS with superpowers
+
+* https://sass-lang.com/
+* https://www.freecodecamp.org/learn/front-end-libraries/sass/
+
+## Compiling SASS to CSS
+
+* https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
+
 # Bootstrap - CSS framework(with some JS in BS4)
 
 * https://getbootstrap.com/
