@@ -3,6 +3,7 @@
 * https://sass-lang.com/
 * https://www.freecodecamp.org/learn/front-end-libraries/sass/
 * https://www.w3schools.com/sass/
+* https://css-tricks.com/sass-style-guide/
 
 ## Compiling SASS to CSS
 
