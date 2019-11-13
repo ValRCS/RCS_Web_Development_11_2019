@@ -4,6 +4,7 @@
 * https://css-tricks.com/snippets/css/complete-guide-grid/
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
+* https://medium.com/html-all-the-things/getting-started-with-css-grid-c80f6376b04f
 * https://www.w3schools.com/css/css_grid.asp
 
 # Tutorial explaining the gap concept
