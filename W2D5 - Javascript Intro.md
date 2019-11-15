@@ -25,3 +25,8 @@
 
 * https://eloquentjavascript.net/
 
+
+## Advanced Javascript for those who already know how to program a bit
+
+* https://github.com/getify/You-Dont-Know-JS
+
