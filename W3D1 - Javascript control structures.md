@@ -1,6 +1,6 @@
 # Control Structures (Loops, Conditionals)
 
-* https://en.wikibooks.org/wiki/JavaScript/Control_structures#:~:targetText=The%20control%20structures%20within%20JavaScript,of%20a%20block%20of%20code.
+*[Control Structures Wiki](https://en.wikibooks.org/wiki/JavaScript/Control_structures#:~:targetText=The%20control%20structures%20within%20JavaScript,of%20a%20block%20of%20code).
 * https://javascript.info/ifelse
 * https://javascript.info/while-for
 
