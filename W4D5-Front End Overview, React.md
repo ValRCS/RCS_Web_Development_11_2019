@@ -37,6 +37,8 @@ https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosa
 
 https://github.com/facebook/create-react-app
 
+https://reactjs.org/docs/create-a-new-react-app.html
+
 ## First we need Node (javascript on the server/your computer not in the browser)
 * https://nodejs.org/en/download/
 
