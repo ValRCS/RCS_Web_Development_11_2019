@@ -10,6 +10,7 @@
 # Routing in PHP
 
 * https://www.taniarascia.com/the-simplest-php-router/
+* https://www.smashingmagazine.com/2011/11/introduction-to-url-rewriting/
 * https://medium.com/the-andela-way/how-to-build-a-basic-server-side-routing-system-in-php-e52e613cf241
 * https://codereview.stackexchange.com/questions/124269/as-basic-as-routing-in-php-can-get
 
